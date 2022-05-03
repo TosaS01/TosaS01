@@ -1,27 +1,25 @@
-## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Hope to make good work with you
+## Happy to offer you my services
 
 
 About me:
 
-- NickName: SeniorDev009 ( Full Stack Web Developer ).<br>
-- Main developer in [Fast Test Now - Fast Covid-19 Testing. )](https://fasttestnow.com/) and [RVs & Motorhomes For Sale](https://www.lamesarv.com/)<br>
+- NickName: TosaS01 ( Full Stack Web Developer ).<br>
+- Main developer in [Fast Test Now - Fast Covid-19 Testing. ](https://fasttestnow.com/) and [RVs & Motorhomes For Sale](https://www.lamesarv.com/)<br>
 - Over 15 years of extensive experience in Web Development 
-<img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- My specialization:<br> 
-✔ Wireframes ( PSD /Figma /invision /adobeXD ) into front-end code<br>
-✔ HTML5, CSS3, Bootstrap 4, SAAS, Three.js, Angular 2 - 9, React, Vue.js<br>
-✔ AWS cloud, AWS DevOps, AWS S3, Azure<br>
-✔ Restful API, SOAP, cURL<br>
-✔ PHP, Laravel, Symfony, Drupal, Node.js<br>
-✔ User Authentication and Authorization<br>
-✔ Twilio and third party payment integrations ( Paypal, Stripe, Google pay, Apple pay ...)<br>
-✔ Migrate the website to any hosting<br>
-✔ MySQL Server, Oracle, PostgreSQL,  MongoDB<br>
-✔ TFS , VSS , SVN, Git, BitBucket, GitLab<br>
-✔ Complex business requirements into software ensuring applications<br><br>
+✓ React, Redux, Gatsby, Thunk, Saga<br>
+✓ Node, Express, MongoDB, Firebase<br>
+✓ WordPress, Laravel, Python<br>
+✓ JavaScript(ES6/ES7+), Typescript, jQuery<br>
+✓ Sucuri Security Enhancements, SSL Certified<br>
+✓ Front End Development (HTML, CSS3 with LESS/SCSS/SASS, responsive UI, Bootstrap, Foundation, TailwindCSS)<br>
+✓ Site Migrations, Backups<br>
+✓ GTMetrix and PageSpeed Optimization<br>
+✓ Chrome extension with Javascript and React<br>
+✓ Payment gateways implementation - Braintree by Paypal and Credit Cards<br>
+✓ Jira, Trello, Asana, Assembla, Basecamp, ProjectPlace<br>
+✓ Docker, AWS devOps<br><br>
 
- I  have a strong collaboration skills to develop and maintain a positive team cohesiveness. I'm in love with Restful API, I have spent thousands of hours working with it, have built tons of apps and APIs on top of Several frameworks.
-I have already a lot of experience in management system of HIPPA complicant, online reservations, travel and data analytics, inventory, reporting , Tax business.  Thank you. <br><br>
+ I am Tosa, a Full Stack Developer with a deep understanding of LAMP, MERN stack structure, proficient in CSS3, Tailwind CSS, HTML5, Javascript, React.js, Node.js, headlessCMS (Strapi, Contentful), PHP, Laravel, major front-end field.  Thank you. <br><br>
 
 If you have any questions, you are welcome anytime.
 ##
@@ -47,10 +45,7 @@ If you have any questions, you are welcome anytime.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -81,6 +76,6 @@ If you have any questions, you are welcome anytime.
 ##
 ##### GitHub status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SeniorDev009&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorDev009&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
+    <img src="https://github-readme-stats.vercel.app/api?username=TosaS01&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TosaS01&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
 </p>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
