@@ -5,8 +5,9 @@ About me:
 
 - NickName: TosaS01 ( Full Stack Web Developer ).<br>
 - Main developer in [Fast Test Now - Fast Covid-19 Testing. ](https://fasttestnow.com/) and [RVs & Motorhomes For Sale](https://www.lamesarv.com/)<br>
-- Over 15 years of extensive experience in Web Development 
-✓ React, Redux, Gatsby, Thunk, Saga<br>
+- Over 15 years of extensive experience in Web Development <br>
+
+✓ Angular6 - 13, React, Redux, Gatsby, Thunk, Saga<br>
 ✓ Node, Express, MongoDB, Firebase<br>
 ✓ WordPress, Laravel, Python<br>
 ✓ JavaScript(ES6/ES7+), Typescript, jQuery<br>
