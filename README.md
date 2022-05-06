@@ -20,7 +20,7 @@ About me:
 ✓ Jira, Trello, Asana, Assembla, Basecamp, ProjectPlace<br>
 ✓ Docker, AWS devOps<br><br>
 
- I am Tosa, a Full Stack Developer with a deep understanding of LAMP, MERN stack structure, proficient in CSS3, Tailwind CSS, HTML5, Javascript, React.js, Node.js, headlessCMS (Strapi, Contentful), PHP, Laravel, major front-end field.  Thank you. <br><br>
+ I am Tosa, a Full Stack Developer with a deep understanding of LAMP, MERN stack structure, proficient in CSS3, Tailwind CSS, HTML5, Javascript, Angular, React.js, Node.js, headlessCMS (Strapi, Contentful), PHP, Laravel, major front-end field.  Thank you. <br><br>
 
 If you have any questions, you are welcome anytime.
 ##
