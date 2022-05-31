@@ -9,7 +9,7 @@ About me:
 
 ✓ Angular6 - 13, React, Redux, Gatsby, Thunk, Saga<br>
 ✓ Node, Express, MongoDB, Firebase<br>
-✓ WordPress, Laravel, Python<br>
+✓ WordPress, Codeigniter, Laravel, Python<br>
 ✓ JavaScript(ES6/ES7+), Typescript, jQuery<br>
 ✓ Sucuri Security Enhancements, SSL Certified<br>
 ✓ Front End Development (HTML, CSS3 with LESS/SCSS/SASS, responsive UI, Bootstrap, Foundation, TailwindCSS)<br>
